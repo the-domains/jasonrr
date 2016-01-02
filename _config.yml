@@ -1,0 +1,14 @@
+layout_spectrum: 0.7274653
+color:
+  saturation: 0.7368342
+  lightness: 0.359536
+  brandStrength: 0.3185873
+  rhythmicContrast: 0.5729342
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+typography_spectrum: 0.6863799
+name: jasonrr
